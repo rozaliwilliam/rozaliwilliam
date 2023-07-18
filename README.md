@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rozaliwilliam
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning machine learning 
+- 💞️ I’m looking to collaborate on data analysis
+- 📫 How to reach me +255613130926
