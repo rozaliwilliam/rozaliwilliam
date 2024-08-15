@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @rozaliwilliam
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on data analysis
-- 📫 How to reach me +255613130926
+- 👋 Hi, I’m sinbad
+- 👀 I'm a data scientist
+- 🌱 I’m currently interested in growing my network
+- 💞️ I’m looking to collaborate researches and projects about machine learning and data science in general
+- 📫 How to reach me williamz1official@gmail.com
+- 
